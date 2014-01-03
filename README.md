@@ -3,7 +3,7 @@ learning-spring
 
 Tutorials
 ---------
-1. This [http://vrtoonjava.wordpress.com/2013/03/03/spring-integration-developing-application-from-the-scratch-part-1-2/](article) shows implementation of real application need.
+1. This [article](http://vrtoonjava.wordpress.com/2013/03/03/spring-integration-developing-application-from-the-scratch-part-1-2/) shows implementation of real application need.
 
 Spring Integration With RabbitMQ
 --------------------------------
